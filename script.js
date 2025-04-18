@@ -520,7 +520,3 @@ this is car.prototype point to Object.prototype
 
 //Promises
 //The project poke-mon promises and xhr only
-
-
-
-let x = 120;
