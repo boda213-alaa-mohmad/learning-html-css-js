@@ -518,7 +518,5 @@ this is car.prototype point to Object.prototype
 
 // console.log("Script End");
 
-//Promises
-//The project poke-mon promises and xhr only
+//regex
 
-let p = new Promise();
